@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infographic of Dark Historical Traditions</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #e0e0e0;
+            font-family: 'Times New Roman', Times, serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #1a1a1a;
+            border: 2px solid #600;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(255, 0, 0, 0.6);
+        }
+        h1, h2 {
+            color: #900;
+            text-align: center;
+            text-shadow: 2px 2px #600;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section:last-child {
+            margin-bottom: 0;
+        }
+        .fact, .opinion {
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #333;
+            border-left: 5px solid #900;
+        }
+        .fact {
+            border-left-color: #c00;
+        }
+        .opinion {
+            border-left-color: #600;
+        }
+        .image {
+            text-align: center;
+            margin: 10px 0;
+        }
+        .image img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #600;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 0, 0, 0.6);
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.8em;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Infographic of Dark Historical Traditions</h1>
+
+        <div class="section">
+            <h2>Human Sacrifices in Ancient Carthage</h2>
+            <div class="image">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Carthage_Punic_sarcophagus_Metropolitan_Museum_of_Art_07.jpg/800px-Carthage_Punic_sarcophagus_Metropolitan_Museum_of_Art_07.jpg" alt="Human Sacrifices in Ancient Carthage">
+            </div>
+            <div class="fact">
+                <strong>Fact:</strong> In Carthage, child sacrifices were made to the god Baal and goddess Tanit. These sacrifices usually occurred during times of crisis or to ensure the community's prosperity. Archaeological remains have been found that corroborate these practices.
+            </div>
+            <div class="opinion">
+                <strong>Opinion:</strong> These practices illustrate how societies may resort to extreme measures under duress. From a sociological perspective, the communal belief in divine intervention reflects the profound impact of religion on social cohesion and the lengths to which societies will go to preserve themselves.
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Ritual Cannibalism Among the Korowai (Papua, Indonesia)</h2>
+            <div class="image">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Korowai_traditional_house.JPG/800px-Korowai_traditional_house.JPG" alt="Ritual Cannibalism Among the Korowai">
+            </div>
+            <div class="fact">
+                <strong>Fact:</strong> The Korowai practiced ritual cannibalism to punish and spiritually purify those considered witches. These practices continued until relatively recent times as part of their beliefs about evil and justice.
+            </div>
+            <div class="opinion">
+                <strong>Opinion:</strong> This ritual highlights the complex interplay between fear, justice, and social order in human societies. Philosophically, it challenges our understanding of morality, showing how cultural context can drastically alter perceptions of right and wrong.
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Head Hunting (Philippines and Borneo)</h2>
+            <div class="image">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Head_hunters%2C_Borneo%2C_1901.jpg/800px-Head_hunters%2C_Borneo%2C_1901.jpg" alt="Head Hunting">
+            </div>
+            <div class="fact">
+                <strong>Fact:</strong> Various tribes in the Philippines and Borneo practiced head hunting, where warriors decapitated their enemies as part of war rituals and spiritual beliefs. These heads were considered symbols of bravery and power.
+            </div>
+            <div class="opinion">
+                <strong>Opinion:</strong> Head hunting can be viewed as a method of reinforcing social hierarchies and warrior ethos. Sociologically, it underscores the role of ritual in legitimizing violence and maintaining tribal cohesion. It also prompts a philosophical inquiry into the human fascination with symbols of power and dominance.
+            </div>
+        </div>
+
+        <div class="footer">
+            &copy; colegio wunman by: cristobal(sauld guman) benjamin(goku)
+        </div>
+    </div>
+</body>
+</html>
